@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Угадай число!</string>
+    <string name="text_view_find_number">Игра угадай число</string>
+    <string name="edit_text_enter_number">Введите число от 1 до 100</string>
+    <string name="button_find_number">Да помогут нам боги рандома</string>
+    <string name="button_start_game">Начать игру</string>
+    <string name="toast_you_lose">Вы проиграли!</string>
+    <string name="toast_you_win">Вы победили!</string>
+
+    <string-array name="difficult_levels">
+        <item>Легко</item>
+        <item>Нормально</item>
+        <item>Сложно</item>
+    </string-array>
+</resources>
